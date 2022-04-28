@@ -2,12 +2,40 @@
 	"version": 2,
 	"redirects": [
 		{
-			"source": "/dotfiles",
-			"destination": "https://github.com/hafffe/dotfiles"
+			"source": "/home",
+			"destination": "https://home.maxelbk.eu.org"
+		},
+		{
+			"source": "/blog",
+			"destination": "https://blog.maxelbk.eu.org"
+		},
+		{
+			"source": "/site",
+			"destination": "https://site.maxelbk.ml"
+		},
+		{
+			"source": "/github",
+			"destination": "https://github.com/maxelblack"
+		},
+		{
+			"source": "/twitter",
+			"destination": "https://twitter.com/maxelbk"
+		},
+		{
+			"source": "/telegram",
+			"destination": "https://t.me/maxelbk"
+		},
+		{
+			"source": "/modpack",
+			"destination": "https://cfmodpack.maxelbk.ml"
+		},
+		{
+			"source": "/coffee",
+			"destination": "https://coffee.maxelbk.eu.org"
 		},
 		{
 			"source": "/(.*)",
-			"destination": "https://github.com/hafffe"
+			"destination": "https://home.maxelbk.eu.org"
 		}
 	]
 }
