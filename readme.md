@@ -1,6 +1,3 @@
-# Personal URL shortener for Vercel platform
+# URL Shortener on Vercel
 
-### Setup
-- Edit vercel.json file with your redirects
-- Run `npm run deploy`
-- Configure your domains for the project on the vercel dashboard (Project settings)
+You can also fork this repo and edit `vercel.json` to deploy a URL shortener on Vercel.
