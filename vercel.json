@@ -35,7 +35,7 @@
 		},
 		{
 			"source": "/(.*)",
-			"destination": "https://home.maxelbk.eu.org"
+			"destination": "https://github.com/maxelblack/vercel-url-shortener"
 		}
 	]
 }
