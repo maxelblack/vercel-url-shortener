@@ -38,6 +38,10 @@
 			"destination": "https://cloud.imgb.space/s/mBiK"
 		},
 		{
+			"source": "/file/akiemc",
+			"destination": "https://cloud.imgb.space/s/rbF3"
+		},
+		{
 			"source": "/(.*)",
 			"destination": "https://github.com/maxelblack/vercel-url-shortener"
 		}
