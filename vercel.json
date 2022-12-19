@@ -42,6 +42,10 @@
 			"destination": "https://cloud.imgb.space/s/rbF3"
 		},
 		{
+			"source": "/4ever",
+			"destination": "https://i4ever.sharepoint.com/:f:/g/EvFKepxwG-5Phb4UAn6PbP8BL93PL8S3zr1ntu3wjN9nrw?e=Cio5Y8"
+		},
+		{
 			"source": "/(.*)",
 			"destination": "https://github.com/maxelblack/vercel-url-shortener"
 		}
