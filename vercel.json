@@ -2,36 +2,28 @@
 	"version": 2,
 	"redirects": [
 		{
-			"source": "/home",
-			"destination": "https://home.maxelbk.eu.org"
+			"source": "/s",
+			"destination": "https://s.nijika.in"
 		},
 		{
-			"source": "/blog",
-			"destination": "https://blog.maxelbk.eu.org"
+			"source": "/gh",
+			"destination": "https://github.com/ruattd"
 		},
 		{
-			"source": "/site",
-			"destination": "https://site.maxelbk.ml"
+			"source": "/x",
+			"destination": "https://x.com/ruattqwq"
 		},
 		{
-			"source": "/github",
-			"destination": "https://github.com/maxelblack"
+			"source": "/tg",
+			"destination": "https://t.me/ruattd"
 		},
 		{
-			"source": "/twitter",
-			"destination": "https://twitter.com/maxelbk"
+			"source": "/tg/channel",
+			"destination": "https://t.me/+sJT6xw4bTBc3YTc1"
 		},
 		{
-			"source": "/telegram",
-			"destination": "https://t.me/maxelbk"
-		},
-		{
-			"source": "/modpack",
-			"destination": "https://cfmodpack.maxelbk.ml"
-		},
-		{
-			"source": "/coffee",
-			"destination": "https://coffee.maxelbk.eu.org"
+			"source": "/fc",
+			"destination": "https://s.nijika.in/forestcraft/2.5"
 		},
 		{
 			"source": "/file/chenote2",
@@ -42,12 +34,8 @@
 			"destination": "https://cloud.imgb.space/s/rbF3"
 		},
 		{
-			"source": "/4ever",
-			"destination": "https://i4ever.sharepoint.com/:f:/g/EvFKepxwG-5Phb4UAn6PbP8BL93PL8S3zr1ntu3wjN9nrw?e=Cio5Y8"
-		},
-		{
 			"source": "/(.*)",
-			"destination": "https://znull.top/home"
+			"destination": "https://www.google.com"
 		}
 	]
 }
